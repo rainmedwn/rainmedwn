@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rainmedwn.
+- 👀 I’m interested in learning Python, C+, JavaScript, etc.
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on nothing yet, still learning.
+- 📫 How to reach me: x/Twitter: @isthisguto.
